@@ -7,7 +7,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/ajayjsr/blogger-robotstxt-generator.git
+git clone [https://github.com/ajayjsr/blogger-robotstxt-generator.git](https://github.com/ajayjsr/bloggerrobotstxtgenerator.git)
 cd blogger-robotstxt-generator
 Install dependencies:
 
