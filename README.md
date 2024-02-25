@@ -1,6 +1,6 @@
 Blogger Robots.txt Generator
 Description
-The Blogger Robots.txt Generator [https://www.bloggerrobotstxtgenerator.com/](https://github.com/ajayjsr/bloggerrobotstxtgenerator.git) is a tool designed to simplify the process of creating a robots.txt file for websites hosted on the Blogger platform. A robots.txt file is crucial for controlling how search engines index your site. This generator allows users to customize and generate a robots.txt file tailored to their specific needs.
+The [Blogger Robots.txt Generator ](https://www.bloggerrobotstxtgenerator.com/) is a tool designed to simplify the process of creating a robots.txt file for websites hosted on the Blogger platform. A robots.txt file is crucial for controlling how search engines index your site. This generator allows users to customize and generate a robots.txt file tailored to their specific needs.
 
 
 Clone the repository:
