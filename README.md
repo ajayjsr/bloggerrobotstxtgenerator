@@ -52,5 +52,5 @@ This project is licensed under the MIT License.
 Contact
 Feel free to reach out with any questions, suggestions, or issues:
 
-Email: info@successbeta.com
-Twitter: @dfhf
+Email: info@example.com
+Twitter: @xyz
